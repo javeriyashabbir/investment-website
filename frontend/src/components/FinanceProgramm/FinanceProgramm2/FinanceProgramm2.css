@@ -1,0 +1,87 @@
+.your-path-to-text{
+       font-family: "Plus Jakarta Sans", sans-serif;
+       font-weight: 600;
+       font-size: 35px;
+       padding-top: 80px;
+       padding-right: 100px;
+}
+.embark-on-journey-text{
+    color: var(--primary-color3);
+     font-family: "DM Sans", sans-serif;
+     padding-top: 20px;
+     font-size: 16px;
+     padding-right: 50px;
+
+}
+.investment-finance-img{
+    width: 85%;
+}
+.lorem-finance-program-text{
+     font-family: "DM Sans", sans-serif;
+     font-weight: 600;
+     font-size: 17px;
+
+}
+.lorem-answer{
+    color: var(--primary-color3);
+    font-size: 15px;
+    padding-right: 20px;
+}
+.hr-financeprogramm{
+   
+    padding-right: 90px;
+}
+.column-4{
+    padding-top: 80px;
+   
+}
+.investment-details-text{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     font-weight: 600;
+     font-size: 25px;
+
+}
+.valuation-text-finance{
+    color: var(--primary-color3);
+    font-size: 16px;
+       font-family: "DM Sans", sans-serif;
+
+}
+.get-started-btn{
+   color: white;
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+.investment-detail-box{
+border: 1px solid var(--primary-color3); 
+border-radius: 15px; 
+}
+.investment-detail-img{
+    width: 99%;
+}
+.led-by-our-expert-text-finance{
+    color: var(--primary-color3);
+    font-family: "DM Sans", sans-serif;
+    font-size: 15px;
+    
+
+}
+.john-doe-text{
+    font-weight: 600;
+     font-family: "DM Sans", sans-serif;
+    
+}
+.founder-text-finance{
+    color: var(--primary-color3);
+     font-family: "DM Sans", sans-serif;
+     font-size: 14px;
+
+}
+
+.expert-team-column{
+    border: 1px solid var(--primary-color3); 
+border-radius: 15px;
+
+
+ }

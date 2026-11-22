@@ -1,0 +1,50 @@
+.meet-our-founder-text{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     font-weight: 700;
+     font-size: 30px;
+    
+}
+.visionsry-main-box{
+    background-color: var(--primary-color1);
+    border-radius: 20px;
+}
+.led-by-our-expert-text{
+    padding-top: 110px;
+     font-family: "DM Sans", sans-serif;
+     font-size: 16px;
+}
+.johndoe-text{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     font-weight: 600;
+
+}
+.founder-text{
+    font-size: 14px;
+     font-family: "Plus Jakarta Sans", sans-serif;
+}
+.what-exclusive-services-text{
+     font-family: "DM Sans", sans-serif;
+     font-weight: 600;
+     font-size: 13px;
+
+}
+.lorem-text{
+    font-size: 11px;
+     font-family: "DM Sans", sans-serif;
+}
+.div-hr{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.icon-down{
+    padding-left: 120px;
+}
+.down-icon-1{
+    padding-left: 90px;
+}
+.down-icon-4{
+    padding-left: 110px;
+}
+.down-icon-5{
+    padding-left: 10px;
+}

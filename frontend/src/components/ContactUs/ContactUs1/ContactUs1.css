@@ -1,0 +1,50 @@
+.contactus-text{
+      font-family: "Plus Jakarta Sans", sans-serif;
+      font-size: 45px;
+      font-weight: 700;
+}
+.take-control-text{
+    color: var(--primary-color3);
+    font-size: 15px;
+     font-family: "DM Sans", sans-serif;
+     padding-right: 100px;
+}
+.contactus-column{
+    padding-top: 140px;
+}
+.get-in-touch-column{
+    margin-top: 100px;
+
+}
+.get-in-touch-img{
+    width: 60%;
+
+}
+.get-in-touch-text{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     font-size:35px ;
+     font-weight: 700;
+
+
+
+}
+.lorem-get-in-touch-text{
+    color: var(--primary-color3);
+    font-size: 15px;
+      font-family: "DM Sans", sans-serif;
+      padding-right: 40px;
+}
+.envelop-icon{
+    color: var(--primary-color3);
+}
+.lorem-2{
+    color: var(--primary-color3);
+    font-size: 16px;
+
+}
+.get-in-touch-img{
+    width: 230px;
+}
+.get-in-touch-div{
+    padding-left: 60px;
+}

@@ -1,0 +1,27 @@
+.investment-2-page{
+    width: 50%;
+}
+.investment-portion{
+    padding-top: 120px;
+}
+.discover-text{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    padding-right: 60px;
+}
+.lorempage2-text{
+     font-family: "DM Sans", sans-serif;
+     color: var(--primary-color3);
+     font-size: 15px;
+     padding-right: 30px;
+}
+.ut-enim-text{
+    font-family: "DM Sans", sans-serif;
+     color: var(--primary-color3);
+     font-size: 15px;
+    
+}
+.investmentpg-2-img{
+    width: 150px;
+}

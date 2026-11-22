@@ -1,0 +1,89 @@
+.solution-text{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     border-radius: 15px;
+     border: 1px solid var(--primary-color3);
+     font-weight: 600;
+     cursor: pointer;
+}
+.solution-text:hover{
+    background-color: #084298;
+    border-color: #084298;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+.solution-text:active{
+    transform: scale(0.97);
+
+}
+
+.smart-investment-sol-text{
+    font-weight: 700;
+    font-size: 35px;
+     font-family: "Plus Jakarta Sans", sans-serif;
+    
+    
+
+}
+.maximize-your-text{
+    color: var(--primary-color3);
+     font-family: "DM Sans", sans-serif;
+     font-size: 16px;
+}
+.investment-sol-img{
+    width: 60%;
+}
+.investers-rating{
+    font-weight: 700;
+    font-size: 30px;
+    background: linear-gradient(135deg, #1e293b 0%, #0f766e 50%, #0284c7 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    display: inline-block;
+}
+.investers-text{
+    color: var(--primary-color3);
+     font-family: "DM Sans", sans-serif;
+     font-size: 16px;
+
+}
+.investors-line-div{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 40px;
+    color: var(--primary-color3);
+
+}
+.navigatethrough-text{
+     color: var(--primary-color3);
+     font-family: "DM Sans", sans-serif;
+     font-size: 16px;
+     padding-left: 290px;
+     padding-right: 290px;
+
+}
+.first-logopsium{
+    width: 140px;
+    /* object-fit: cover;
+    transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+    filter: 0.4s ease; */
+
+}
+/* .first-logopsium:hover{
+    transform: scale(1.08);
+    filter: brightness(0.78);
+} */
+.spotlight-img{
+     object-fit: cover;
+    transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+    filter: 0.4s ease;
+
+
+}
+.spotlight-img:hover{
+     transform: scale(1.08);
+    filter: brightness(0.78);
+
+}

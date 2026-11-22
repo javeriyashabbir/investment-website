@@ -1,0 +1,61 @@
+.main-opportunities-box{
+    padding-top: 70px;
+    
+}
+.explore-recent-opportinities-text{
+    font-weight: 700;
+    font-size: 46px;
+      font-family: "Plus Jakarta Sans", sans-serif;
+}
+.unlock-a-universe-text{
+      font-family: "DM Sans", sans-serif;
+      color:var(--primary-color3);
+      font-size: 15px;
+}
+.learn-more-btn{
+    color: var(--primary-color2);
+    font-weight: 600;
+     font-family: "Plus Jakarta Sans", sans-serif;
+}
+.museum-main-box{
+    border: 1px solid var(--primary-color3);
+    border-radius: 16px;
+    background-color: #ffffff;
+    transition: all 0.3s cubic-bezier(0.25. 0.8, 0.25, 1);
+    animation: floating 3s ease-in-out infinite;
+
+}
+.museum-main-box:hover{
+    transform: translateY(-8px);
+     box-shadow: 0 12px 30px rgba(0,0, 0, 0.12);
+}
+.museum-img{
+    width: 180px;
+    
+}
+.international-art-text{
+    font-weight: 600;
+    font-size: 21px;
+    padding-right: 10px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.valuation-text{
+    color: var(--primary-color3);
+     font-family: "Plus Jakarta Sans", sans-serif;
+     padding-left: 10px;
+     padding-top: 4px;
+}
+.valuation-logo-pic{
+    width: 15px;
+}
+@keyframes floating {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px); /* Upar jana */
+  }
+  100% {
+    transform: translateY(0px); /* Wapas apni jagah par aana */
+  }
+}

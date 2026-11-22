@@ -1,0 +1,68 @@
+.blog-text{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     font-size: 35px;
+     font-weight: 700;
+}
+.blog-text-column{
+    padding-top: 80px;
+}
+.take-cntrl-text{
+    font-family: "DM Sans", sans-serif;
+    padding-right: 50px;
+    font-size: 16px;
+
+}
+.calm-profitable-img{
+    width: 200px;
+}
+.date-blog{
+    color: var(--primary-color3);
+     font-family: "DM Sans", sans-serif;
+    
+     font-size: 15px;
+}
+.tips-for-staying-text{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     font-weight: 700;
+     font-size: 25px;
+     padding-right: 30px;
+
+}
+.recent-post-btn{
+       font-family: "Plus Jakarta Sans", sans-serif;
+       font-size: 15px;
+       font-weight: 600;
+       border: 1px solid black;
+       width: 130px;
+
+}
+.recent-post-btn:hover{
+  transform: translateY(-2px);
+  background-color: var(--btn-hover-bg);
+  color: var(--btn-hover-text);
+  border-color: var(--btn-hover-bg);
+  box-shadow: 0 10px 24px var(--btn-glow);
+}
+
+.tips-forstaying-calm-text{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     font-weight: 700;
+     font-size: 20px;
+     padding-right: 50px;
+
+}
+.advvisory-box{
+    background-color: var(--primary-color1);
+    border-radius: 20px;
+    width: 250px;
+
+}
+.dot-icon-blog{
+    width: 15px;
+}
+.investment-advisory-text{
+    color: var(--primary-color3);
+     font-family: "DM Sans", sans-serif;
+     font-size: 15px;
+
+}

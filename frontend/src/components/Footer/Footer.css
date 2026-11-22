@@ -1,0 +1,36 @@
+.footer-first-column{
+    margin-top: 100px;
+}
+
+
+.powered-by-sociallib-text{
+font-family: "DM Sans", sans-serif;
+margin-top: 10px;
+font-size: 13px;
+
+}
+.office-text{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+.office-location-text{
+    font-family: "DM Sans", sans-serif;
+    color: var(--primary-color3);
+    font-size: 16px;
+}
+.envelope-location{
+    color: var(--primary-color3);
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+}
+.footer-all-row-text{
+   padding-top: 120px; 
+}
+.services-text{
+    font-family: "DM Sans", sans-serif;
+    color: var(--primary-color3);
+    font-size: 16px;
+
+}

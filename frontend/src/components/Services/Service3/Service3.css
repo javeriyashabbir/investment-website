@@ -1,0 +1,44 @@
+.financial-destiny-row{
+    width: 80%;
+    background-color: var(--primary-color1);
+    border-radius: 20px;
+    
+}
+.financial-destiny-column{
+    margin-top: 100px;
+    
+    
+   
+}
+.secure-your-destiny{
+      font-family: "DM Sans", sans-serif;
+      font-size: 30px;
+      font-weight: 700;
+      padding-top: 25px;
+     
+}
+.our-commitment-to-text{
+    color: var(--primary-color3);
+    font-family: "DM Sans", sans-serif;
+    padding-top: 25px;
+    font-size: 15px;
+    padding-right: 30px;
+
+}
+.learn-btn-services{
+    color: var(--primary-color2);
+      font-family: "DM Sans", sans-serif;
+      font-weight: 600;
+
+}
+.live-report-text{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     font-size: 20px;
+     font-weight: 600;
+}
+.keep-up-with-text{
+    color: var(--primary-color3);
+     font-family: "DM Sans", sans-serif;
+     font-size: 16px;
+
+}

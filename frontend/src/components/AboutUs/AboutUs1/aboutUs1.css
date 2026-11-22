@@ -1,0 +1,108 @@
+.investing-simplified-text{
+    font-weight: 700;
+    font-size: 70px;
+      font-family: "Plus Jakarta Sans", sans-serif;
+      animation: fadeInUp 0.8s ease-out forwards;
+}
+.take-command-financial-future-text{
+      font-family: "DM Sans", sans-serif;
+      animation:fadeInUp 0.9s ease-out forwards ;
+}
+.get-started-main-box{
+    background-color: var(--primary-color1);
+    margin-right: 50px;
+    border-radius: 15px;
+}
+.rating-about-us{
+    font-weight: 700;
+    font-size: 30px;
+
+}
+.get-started-btn{
+    background-color: var(--primary-color2);
+    font-size: 15px;
+    padding-top: 6px;
+    transition: all 0.3s ease;
+     background-color: linear-gradient(456deg, #6a11cb, #2575fc); 
+     /* color: white; */
+    /* transition: all 0.4s ease;  */
+}
+.get-started-btn:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0,0, 0.15);
+}
+ .discover-world-text{
+      font-family: "Plus Jakarta Sans", sans-serif;
+      padding-right: 53px;
+      font-weight: 600;
+
+}
+.play-btn-div{
+   
+    padding-right: 10px;
+}
+.play-btn{
+    width: 40px;
+}
+.play-btn:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.aboutus-pic1{
+    height: 92vh;
+    padding-top: 20px;
+    
+}
+.income-chart-pic{
+    width: 300px;
+     background: var(--card-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+  border-radius: 15px;
+
+   
+}
+.income-div{
+    right: 100px;
+    top: 335px;
+}
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Right side wali main image ke liye smooth fade & slide */
+@keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        transform: translateX(40px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Income chart card ke liye halki si pop-up / zoom animation */
+@keyframes floatCard {
+    0% {
+        opacity: 0;
+        transform: scale(0.9) translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
+}
+
+.invest-main-container{
+    padding-top: 100px;
+}

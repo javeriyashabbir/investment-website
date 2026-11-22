@@ -1,0 +1,34 @@
+.financialgain-img{
+    margin-top: 80px;
+}
+.unlock-financial-gains-text{
+    padding-left: 270px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+.elevate-your-text{
+    padding-left: 160px;
+    
+    padding-top: 40px;
+      font-family: "DM Sans", sans-serif;
+      color: white;
+      font-size: 20px;
+
+}
+.get-started-text{
+    color: white;
+     font-family: "Plus Jakarta Sans", sans-serif;
+     background-color: var(--primary-color3);
+     width: 140px;
+     border-radius: 20px;
+     font-size: 17px;
+     font-weight: 500;
+}
+.get-started-main-box-gains{
+    margin-left: 500px;
+    margin-top: 30px;
+   
+}
